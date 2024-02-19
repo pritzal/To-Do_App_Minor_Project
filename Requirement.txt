@@ -1,0 +1,18 @@
+# Requirements for Flask Todo List Web Application
+
+Flask==2.1.0
+Flask-SQLAlchemy==3.0.0
+requests==2.26.0
+dateandtime
+
+the pip commands to install the dependencies listed in the requirements.txt file:
+
+pip install Flask==2.1.0
+pip install Flask-SQLAlchemy==3.0.0
+pip install requests==2.26.0
+pip install dateandtime
+
+# Description:
+# - Flask: Micro web framework for building web applications in Python.
+# - Flask-SQLAlchemy: Flask extension for working with SQLAlchemy, providing an ORM (Object-Relational Mapping) for database operations.
+# - requests: HTTP library for making requests to external services or APIs.
